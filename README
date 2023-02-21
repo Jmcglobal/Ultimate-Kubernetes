@@ -1,0 +1,7 @@
+This repository contains full set of configuration " ELK STACK" for collecting logs ( Fluentd, Elastic Search and Kibana.
+
+Grafana and Prometheus full deployment configuration inside kubernetes cluster, for logs and metrics visualization and monitoring.
+
+Fleetman micro-service deployments.
+
+

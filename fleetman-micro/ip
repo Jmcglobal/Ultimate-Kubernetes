@@ -1,0 +1,2 @@
+monitoring-grafana-b646bc59b-2jr89                       2/2     Running     0          11m   10.1.1.201   ip-10-1-1-182.us-east-2.compute.internal   <none>           <none>
+monitoring-prometheus-node-exporter-l46fc                1/1     Running     0          11m   10.1.1.182   ip-10-1-1-182.us-east-2.compute.internal   <none>           <none>

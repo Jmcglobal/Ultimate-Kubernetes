@@ -1,0 +1,15 @@
+kubectl rollout status deploy webapp
+# this command will show if rollout was successfull
+
+kubectl rollout history deploy webapp
+#this command will show all rollout revision
+Revision       Change
+1
+3
+# here 3 is the latest revision running on the cluster
+
+kubectl rollout undo deploy webapp --to-revisoion=1
+#this will roll back to version 1
+kubectl rollout undo deploy webapp
+
+# this will roll back to previous version/revision before the latest version
